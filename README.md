@@ -1,4 +1,4 @@
-# nike  - https://aebonlee.github.io/nike/
+# nike
 
 <img src="nike.png">
 <img src="nike_ex.png">
